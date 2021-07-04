@@ -18,3 +18,5 @@ Can design reports using the FastReport.Community and use the save location of t
 Fast Report Open Source - https://github.com/FastReports/FastReport
 
 ngx-extended-pdf-viewer - https://github.com/stephanrauh/ngx-extended-pdf-viewer
+
+ngx-spinner - https://napster2210.github.io/ngx-spinner/
