@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{23940D2B-2D32-4565-8D18-DFF966FBABB5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PDFViewer/ClientApp/src/app/app.module.ts">
+    <Files>
+      <File FileName="PDFViewer/ClientApp/src/app/nav-menu/nav-menu.component.ts" Line="1" Column="1" />
+      <File FileName="PDFViewer/ClientApp/src/app/app.component.html" Line="1" Column="1" />
+      <File FileName="PDFViewer/ClientApp/src/app/app.component.ts" Line="1" Column="1" />
+      <File FileName="PDFViewer/ClientApp/src/app/app.module.ts" Line="34" Column="5" />
+      <File FileName="PDFViewer/ClientApp/src/app/app.server.module.ts" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PDFViewer" expanded="True">
+            <Node name="PDFViewer" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="app.module.ts" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PDFViewer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
