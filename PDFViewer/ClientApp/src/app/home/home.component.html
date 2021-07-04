@@ -1,0 +1,15 @@
+<h1>Hello, world!</h1>
+{{pdfSrc}}
+
+<button (click)="generateReport()">Generate Report</button>
+
+<h1 *ngIf="busy">Busy</h1>
+
+<!--<pdf-viewer [src]="pdfSrc"
+            [render-text]="true"
+            style="display: block;"
+></pdf-viewer>-->
+
+<ngx-spinner bdColor="rgba(0, 0, 0, 0.8)" size="medium" color="#fff" type="ball-spin-clockwise" [fullScreen]="true"><p style="color: white"> Loading... </p></ngx-spinner>
+
+<ngx-extended-pdf-viewer [src]="pdfSrc" useBrowserLocale="true" height="80vh"></ngx-extended-pdf-viewer>
